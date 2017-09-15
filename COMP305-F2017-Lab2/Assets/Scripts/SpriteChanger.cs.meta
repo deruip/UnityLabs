@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 008f7495d5f8f3e4f8bf1b626a8741e6
+timeCreated: 1505455641
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - GreenButton: {fileID: 21300000, guid: 04085d59b80dd4a4d9b32336bfa55bb3, type: 3}
+  - RedButton: {fileID: 21300000, guid: 2f1e9ef9a43502c4f81a4eda94008b30, type: 3}
+  - PurpleButton: {fileID: 21300000, guid: 7c17c144bdf75914ea5aecf1aff09f23, type: 3}
+  - Human: {instanceID: 0}
+  - GreenSprite: {fileID: 21300000, guid: e81efd532bfffb54187d994408b7d31c, type: 3}
+  - RedSprite: {fileID: 21300000, guid: a8e00872ef82c58418a780f0fc7142c2, type: 3}
+  - PurpleSprite: {fileID: 21300000, guid: 65fc9c1a1aeee384f9d7b4dd560e12c0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
